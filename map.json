@@ -1647,6 +1647,18 @@
                         {
                          "duration":400,
                          "tileid":63
+                        }, 
+                        {
+                         "duration":400,
+                         "tileid":61
+                        }, 
+                        {
+                         "duration":400,
+                         "tileid":62
+                        }, 
+                        {
+                         "duration":400,
+                         "tileid":61
                         }],
                  "id":61
                 }, 
@@ -1707,6 +1719,18 @@
                         {
                          "duration":400,
                          "tileid":79
+                        }, 
+                        {
+                         "duration":400,
+                         "tileid":77
+                        }, 
+                        {
+                         "duration":400,
+                         "tileid":78
+                        }, 
+                        {
+                         "duration":400,
+                         "tileid":77
                         }],
                  "id":77
                 }],
