@@ -457,7 +457,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"A perfect virtual office to get started with WorkAdventure!"
+         "value":"virtual train station"
         }, 
         {
          "name":"mapImage",
@@ -472,7 +472,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Starter kit"
+         "value":"station"
         }, 
         {
          "name":"script",
